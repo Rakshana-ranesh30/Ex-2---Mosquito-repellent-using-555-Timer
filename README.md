@@ -21,7 +21,9 @@ S.No	Components/Software	Specification
 
 **Circuit Diagram**
 
-(Insert Proteus circuit diagram here.)
+<img width="1535" height="862" alt="Screenshot 2026-10-27 093727" src="https://github.com/user-attachments/assets/448f28ed-ee9f-426d-9352-544c1ccd0c62" />
+
+
 
 **Theory**
 
@@ -71,8 +73,8 @@ Adjust the potentiometer and note the corresponding change in output frequency.
 
 **Output**
 	
-	
-(Insert Proteus output diagram here.)
+<img width="1098" height="702" alt="Screenshot 2026-10-27 093649" src="https://github.com/user-attachments/assets/31650a43-58e5-4f82-9864-d9c614e9c6e9" />
+
 
 **Result**
 
